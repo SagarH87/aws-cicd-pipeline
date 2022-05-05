@@ -3,5 +3,5 @@ variable dockerhub_credentials{
 }
 
 variable codestar_connector_credentials{
-    type = strig 
+    type = string 
 }
